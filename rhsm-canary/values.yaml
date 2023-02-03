@@ -2,7 +2,7 @@ service:
   name: dstrategies-back
   image:
     repository: quay.io/dseveria/dstrategies-back
-    version: no-default-value
+    version: V1.0.0
   replicas: 4
   port: 8080
   healthPath: /q/health/live
