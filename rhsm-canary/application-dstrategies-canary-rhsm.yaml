@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: dstrategies-canary-service-mesh
+  name: dstrategies-canary-service-mesh2
   namespace: user01-gitops-argocd
 spec:
   destination:
