@@ -7,4 +7,4 @@ service:
   port: 8080
   healthPath: /q/health/live
 
-domain: no-default-value
+domain: rhte23rollouts01.sandbox1704.opentlc.com
